@@ -1,6 +1,6 @@
 # Gallery Page
 
-This is just a basic file website to test your html and css improve your skills
+This is just a basic website designed using html and css
 
 # Contribution Guide
 
